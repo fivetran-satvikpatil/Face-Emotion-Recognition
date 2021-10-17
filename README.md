@@ -5,7 +5,6 @@ In this project, we created a model which will help us in identification of huma
 
 [FER-2013 Dataset](https://www.kaggle.com/msambare/fer2013)
 
-
 ## Dependencies
 
 - Python
